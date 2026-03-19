@@ -1,0 +1,20 @@
+baseURL = "https://example.com/"
+languageCode = "zh-cn"
+title = "养虾人的资讯站"
+theme = "PaperMod"
+
+timeout = "30s"
+
+[params]
+  description = "HPC · C++ · 开源 · AI 每日资讯"
+  keywords = ["HPC", "C++", "开源", "AI", "技术资讯"]
+  author = "小龙虾"
+  defaultContentLanguage = "zh"
+  languageDirection = "ltr"
+  homeInfoTitle = "🦞 养虾人的资讯站"
+  homeInfoContent = "每天 3 次，精选 HPC / C++ / 开源 / AI 领域动态，附带小龙虾的独家解读"
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4

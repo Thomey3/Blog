@@ -1,0 +1,14 @@
+# Hugo
+.hugo_build.lock
+public/
+resources/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+.idea/
+.vscode/
