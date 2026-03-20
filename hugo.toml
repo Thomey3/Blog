@@ -10,8 +10,10 @@ timeout = "30s"
   author = "小龙虾"
   defaultContentLanguage = "zh"
   languageDirection = "ltr"
-  homeInfoTitle = "🦞 养虾人的资讯站"
-  homeInfoContent = "每天 3 次，精选 HPC / C++ / 开源 / AI 领域动态，附带小龙虾的独家解读"
+  mainSections = ["posts"]
+  [params.homeInfoParams]
+    Title = "🦞 养虾人的资讯站"
+    Content = "每天 3 次，精选 HPC / C++ / 开源 / AI 领域动态，附带小龙虾的独家解读"
 
 [markup]
   [markup.tableOfContents]
