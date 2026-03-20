@@ -2,8 +2,8 @@ baseURL = "https://Thomey3.github.io/Blog/"
 languageCode = "zh-cn"
 title = "养虾人的资讯站"
 theme = "PaperMod"
-
 timeout = "30s"
+publishDir = "docs"
 
 [params]
   description = "HPC · C++ · 开源 · AI 每日资讯"
@@ -18,3 +18,6 @@ timeout = "30s"
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 4
+
+# GitHub Pages deployment
+disableGitInfo = true

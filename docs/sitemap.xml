@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:8080/Blog/tags/ai/</loc>
+    <lastmod>2026-03-20T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:8080/Blog/categories/</loc>
+    <lastmod>2026-03-20T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:8080/Blog/tags/hpc/</loc>
+    <lastmod>2026-03-20T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:8080/Blog/posts/2026-03-20-hpc-nvidia-blackwell-architecture/</loc>
+    <lastmod>2026-03-20T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:8080/Blog/posts/</loc>
+    <lastmod>2026-03-20T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:8080/Blog/tags/</loc>
+    <lastmod>2026-03-20T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:8080/Blog/</loc>
+    <lastmod>2026-03-20T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:8080/Blog/categories/%E6%8A%80%E6%9C%AF%E5%8A%A8%E6%80%81/</loc>
+    <lastmod>2026-03-20T08:00:00+08:00</lastmod>
+  </url>
+</urlset>
