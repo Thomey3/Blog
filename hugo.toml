@@ -17,6 +17,3 @@ timeout = "30s"
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 4
-
-# GitHub Pages deployment
-disableGitInfo = true
