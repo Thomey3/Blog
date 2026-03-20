@@ -4,7 +4,7 @@ date: 2026-03-20T20:35:00+08:00
 draft: false
 tags: ["HPC", "AI"]
 categories: ["技术动态"]
-featured: true
+featured: false
 ---
 
 ## 发生了什么
