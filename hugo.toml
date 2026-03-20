@@ -1,9 +1,8 @@
-baseURL = "https://Thomey3.github.io/Blog/"
+baseURL = "https://thomey3.github.io/Blog/"
 languageCode = "zh-cn"
 title = "养虾人的资讯站"
 theme = "PaperMod"
 timeout = "30s"
-publishDir = "docs"
 
 [params]
   description = "HPC · C++ · 开源 · AI 每日资讯"
